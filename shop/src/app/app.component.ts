@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Shop App';
+  
+  onBuyAll(): void {
+    alert('You have bought all products');
+  }
 }
