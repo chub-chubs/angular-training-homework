@@ -2,8 +2,8 @@
 ✔ Просмотреть CLI QuickStart https://angular.io/docs/ts/latest/cli-quickstart.html @done (11/14/2017, 10:53:35 AM)
 ☐ Просмотреть Style Guide https://angular.io/docs/ts/latest/guide/style-guide.html
 
-☐ Создайте проект на гитхабе и бренч Task1 для первого задания.
-☐ Создайте проект (ng new shop)
+✔ Создайте проект на гитхабе и бренч Task1 для первого задания. @done (11/14/2017, 11:04:41 AM)
+✔ Создайте проект (ng new shop) @done (11/14/2017, 11:06:20 AM)
 ☐ Создайте компонент ProductComponent. Используйте его в AppComponent.
 ☐ Добавьте несколько простых свойств для компонента ProductComponent, выведите их в темплейт:
     - name: string
@@ -25,4 +25,3 @@
 ☐ Опишите в ридми и реализуйте любую дополнительную функциональность.
 ☐ Загрузите Ваш проект на github и отправьте мне ссылку (Vitaliy_Zhyrytskyy@epam.com)
 ☐ Все последующие задания выполнять в том же проекте но в разных ветках: Task2, Task3, ....
-
