@@ -1,0 +1,6 @@
+.product-list{
+    display: inline-block;
+    vertical-align: text-top;
+    margin: auto;
+    padding: 10px;
+}

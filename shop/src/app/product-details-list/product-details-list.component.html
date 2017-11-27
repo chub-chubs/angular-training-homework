@@ -1,0 +1,5 @@
+<h2>Product list:</h2>
+<hr>
+<div *ngFor="let product of products" class="product-list">
+  <app-product-details [product] = product></app-product-details>
+</div>

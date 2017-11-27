@@ -1,0 +1,19 @@
+.product-item {
+  background-color: rgb(46, 46, 46);
+  color: white;
+  width: 250px;
+  height: 230px;
+  margin: auto;
+  padding: 10px;
+  border:2px ridge white;
+}
+
+pre {
+  word-wrap: break-word;
+  white-space: pre-wrap;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+}

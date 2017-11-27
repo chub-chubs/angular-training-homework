@@ -1,0 +1,1 @@
+export { ProductRepositoryService } from './product-repository.service';
